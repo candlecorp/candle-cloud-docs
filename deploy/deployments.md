@@ -24,10 +24,10 @@ Deploying your Wick applications on Candle Cloud is a streamlined process design
    - Currently, Candle Cloud only supports packages hosted on `registry.candle.dev`.
    - e.g., `registry.candle.dev/my-namespace/my-app:0.1.0`
 
-4. **Configure Application Port**:
+4. **Configure Inbound HTTP**:
 
-   - Specify the port your application listens on.
-   - This should align with the {{<v1ref "tcpport">}}TcpPort{{</v1ref>}} resource configuration set within your Wick application.
+   - This will enable (or disable) an inbound HTTPS route to your application.
+   - You must use `{{ ctx.env.HTTP_PORT }}` as the port value of your {{<v1ref "tcpport">}}TcpPort{{</v1ref>}} resource configuration set within your Wick application.
 
 5. **Wick Binary Version**:
 
