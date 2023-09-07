@@ -4,6 +4,10 @@ weight: 1
 description: "Candle Cloud Deployment Service."
 ---
 
+# Quick Start Guides
+
+- [Deploy a static site to Candle Cloud](./quick-start/static-site.md)
+
 # Deploy Service on Candle Cloud
 
 Welcome to the Deploy Service documentation. With the Candle Cloud's Deploy Service, you can effortlessly host and run your Wick applications, ensuring a scalable, robust, and secure environment for your Wick applicatoins.

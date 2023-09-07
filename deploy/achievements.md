@@ -1,7 +1,7 @@
 ---
-title: 'Achievements'
+title: "Achievements"
 date: 2023-08-24
-description: 'Unlock higher entitlement tiers through achievements on Candle Cloud.'
+description: "Unlock higher entitlement tiers through achievements on Candle Cloud."
 weight: 6
 ---
 
@@ -13,8 +13,7 @@ At Candle Cloud, we believe in rewarding our users' dedication and commitment. A
 
 1. **Navigating to Entitlements**:
 
-   - Click on your username located in the top right corner of the dashboard.
-   - Select `Entitlements` from the dropdown menu.
+   - Select `Entitlements` from the top navbar.
 
 2. **Viewing Achievements**:
    - Within the `Entitlements` section, you'll find a dedicated area that lists available achievements.
