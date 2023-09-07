@@ -10,7 +10,7 @@ Candle Cloud is your all-in-one platform for streamlining the development, packa
 
 # Quick Start Guides
 
-- [Deploy a static site to Candle Cloud](./quick-start/static-site)
+- [Deploy a static site to Candle Cloud](./deploy/quick-start/static-site)
 
 ## Overview
 
