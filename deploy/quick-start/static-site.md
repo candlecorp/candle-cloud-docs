@@ -65,7 +65,7 @@ triggers:
 
 In your terminal, run: `HTTP_PORT=8080 wick run app.wick`
 This will start the application on port 8080. You can load up your browser to see your site locally.
-![Run Wick Locally](run.png)
+![Run Wick Locally](/run.png)
 
 ## Push to Registry
 
@@ -75,7 +75,7 @@ This will push the project to your namespace on [registry.candle.dev](https://re
 Make sure to note the reference, it will be similar to the following:
 `registry.candle.dev/mynamespace/my-site:0.1.0`
 
-![Wick Registry Push output](push.png)
+![Wick Registry Push output](/push.png)
 
 ## Deploy on Candle Cloud
 
@@ -86,7 +86,7 @@ Make sure to note the reference, it will be similar to the following:
 - After a few minutes, your site will be up on a dynamically created hostname.
 - [Upgrade your entitlements for free.](https://cloud.candle.dev/entitlements)
 
-![Deploy application screen on Candle Cloud](deploy.png)
+![Deploy application screen on Candle Cloud](/deploy.png)
 
 ## Adding Your Own Domain Name (Optional)
 
