@@ -1,12 +1,14 @@
 ---
 title: Deploy Service
 weight: 1
-description: 'Candle Cloud Deployment Service.'
+description: "Candle Cloud Deployment Service."
 ---
 
 # Deploy Service on Candle Cloud
 
-Welcome to the Deploy Service documentation. With the Candle Cloud's Deploy Service, you can effortlessly host and run your Wick applications, ensuring a scalable, robust, and secure environment for your projects.
+Welcome to the Deploy Service documentation. With the Candle Cloud's Deploy Service, you can effortlessly host and run your Wick applications, ensuring a scalable, robust, and secure environment for your Wick applicatoins.
+
+Unsure of what type of applications can be built with Wick? Check out the [Wick Examples Applications](https://github.com/candlecorp/wick-apps).
 
 In this section, you'll find comprehensive guides covering various facets of the deployment process and management on Candle Cloud:
 

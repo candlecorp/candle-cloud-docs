@@ -1,7 +1,7 @@
 ---
 title: Registry Service
 weight: 1
-description: 'Candle Cloud Registry service.'
+description: "Candle Cloud Registry service."
 ---
 
 # Pushing to Candle Cloud Registry
@@ -21,10 +21,10 @@ Candle Cloud Registry makes it easy to store and manage your Wick packages. Foll
 ## 2. Setting Up Your Namespace
 
 1. If it is your first time logging in, you'll be prompted to create a username. This ensures a unique identity within the Candle Cloud ecosystem.
-2. Navigate to `My Projects`.
-3. Click on `New Project`.
-4. Enter a ` project name` and choose if you prefer it to be `public` or `private`. We encourage everyone to try `public` for any components that you want to share with the community, but understand the need for `private` apps as well.
-5. The `project name` will serve as your `namespace` in the [Wick package](../../wick/getting-started/package) configuration.
+2. Navigate to `My Namespaces`.
+3. Click on `New Namespace`.
+4. Enter a `namespace name` and choose if you prefer it to be `public` or `private`. We encourage everyone to try `public` for any components that you want to share with the community, but understand the need for `private` apps as well.
+5. The `namespace name` will serve as your `namespace` in the [Wick package](../../wick/getting-started/package) configuration.
 
 ## 3. Getting your Wick CLI Registry Credentials
 
