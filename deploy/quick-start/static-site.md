@@ -65,6 +65,7 @@ triggers:
 
 In your terminal, run: `HTTP_PORT=8080 wick run app.wick`
 This will start the application on port 8080. You can load up your browser to see your site locally.
+
 ![Run Wick Locally](/run.png)
 
 ## Push to Registry
