@@ -1,12 +1,16 @@
 ---
-title: 'Candle Cloud Documentation'
+title: "Candle Cloud Documentation"
 date: 2023-08-24
-description: 'Your one-stop guide to understanding and utilizing the Candle Cloud services.'
+description: "Your one-stop guide to understanding and utilizing the Candle Cloud services."
 ---
 
 # Welcome to Candle Cloud
 
 Candle Cloud is your all-in-one platform for streamlining the development, packaging, and deployment of your applications. Developed with the modern software team in mind, our suite of tools and services ensures a seamless experience from start to finish.
+
+# Quick Start Guides
+
+- [Deploy a static site to Candle Cloud](./quick-start/static-site)
 
 ## Overview
 
